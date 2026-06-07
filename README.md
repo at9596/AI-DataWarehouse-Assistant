@@ -286,3 +286,40 @@ Potential Issues:
 ## Resume Highlight
 
 Built an AI-powered Data Warehouse Assistant using Python, Streamlit, Gemini API, and SQL Server that generated SQL queries from natural language, validated ETL pipelines, explained stored procedures, and automated data warehouse documentation.
+
+
+## 🎯 MVP Sprint Roadmap
+
+This project is being developed incrementally using sprint-based milestones. The goal is to build an AI-powered assistant that helps data engineers interact with a SQL Server Data Warehouse using natural language, automate documentation, and improve ETL development workflows.
+
+* [x] **Sprint 1: Foundation** ~~Completed~~
+
+  * Create GitHub Repository
+  * Design Project Architecture
+  * Create README Documentation
+  * Configure Gemini API
+  * Setup SQL Server Connection
+  * Create Database Connector
+  * Build Streamlit Interface
+
+* [ ] **Sprint 2: Core AI Features**
+
+  * Natural Language to SQL Generation
+  * SQL Execution Engine
+  * Query Results Viewer
+  * SQL Explanation Module
+
+* [ ] **Sprint 3: Data Warehouse Intelligence**
+
+  * Schema Discovery
+  * Table Relationship Mapping
+  * Data Dictionary Generation
+  * Automated Documentation
+
+* [ ] **Sprint 4: ETL Assistant**
+
+  * ETL Validation
+  * Data Quality Checks
+  * Naming Convention Analysis
+  * Performance Recommendations
+
